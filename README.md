@@ -27,7 +27,7 @@ Data: The MNIST dataset, a widely used benchmark for image classification, conta
 
 ## PROGRAM
 
-### Name: LOKESH KUMAR P
+### Name: LOKESH KUMAR p
 ### Register Number: 212222240054
 ```python
 import numpy as np
